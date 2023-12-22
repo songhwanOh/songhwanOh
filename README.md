@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 - Data Visualization (Tableau)
 - Project Development and Collaboration
 
-📫 How to reach me **songhwanoh@gmail.com**
-
 Feel free to reach out if you'd like to collaborate on projects, share insights, or just have a chat about data analysis and related topics.
 Thank you for visiting my GitHub profile, and I look forward to connecting with fellow data enthusiasts!
 
